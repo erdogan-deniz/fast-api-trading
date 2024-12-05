@@ -1,0 +1,7 @@
+psycopg2
+fastapi[all]
+alembic~=1.13.1
+psycopg2-binary
+pydantic~=2.7.4
+sqlalchemy~=2.0.31
+python-dotenv~=1.0.1
